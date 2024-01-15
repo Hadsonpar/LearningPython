@@ -1,10 +1,12 @@
 # Learning Python
-Different Resources for lear language Python
+Different Resources for learning language Python
+
 * Autor: [Hadson Paredes Cordova](https://www.linkedin.com/in/hadson-paredes-cordova/ "IT Solutions Architecture | Software Dev | AI, ML, DL | Data Science | Agile | Cloud")
 
 
 ## Learning Python - Tutorials for beginner
-1. Our first Python Program - "Hello World"
+1. Our first Python Program
+    - Hello World
 2. Variables
 3. Data types
     - numbers
