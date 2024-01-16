@@ -17,7 +17,7 @@ z = 36
 print(x, y, z)
 
 # 1.1. Assigning new value to "x" variable
-x = "Welcom"
+x = "Welcome"
 print(x, y, z)
 
 # 1.2. Assigning new value to "z" variable of type string
@@ -59,6 +59,9 @@ print(xglobal, level_benniger)
 
 # 3.2. Complete the phrase, with a string, the global variable and an value of collection
 print("Learning Python - ", xglobal, level_intermediate)
+
+# Note: 
+# Later, we review global variable inside a function
 
 # Remember:
 # The print() function prints the specified message to the screen, or other
