@@ -8,14 +8,16 @@ Different Resources for learning language Python
 1. Our first Python Program
     - Hello World
 2. Variables
-3. Data types
+3. Data types    
+    - text
     - numbers
-    - strings
-    - boolean
-    - list
-    - tuples
+    - sequences
+    - mapping
     - sets
-    - dictionaries 
+    - boolean
+    - binary
+    - none
+    
 4. Operators
 5. Control_flows
     - if, else and elif
