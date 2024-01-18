@@ -19,6 +19,13 @@ Different Resources for learning language Python
     - none
     
 4. Operators
+    - Python Arithmetic Operators
+    - Python Comparison Operators
+    - Python Logical Operators
+    - Python Identity Operators
+    - Python Bitwise Operators
+    - Python Assignment Operators
+    - Python Membership  Operators
 5. Control_flows
     - if, else and elif
     - loops
