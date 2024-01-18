@@ -8,8 +8,8 @@ Different Resources for learning language Python
 1. Our first Python Program
     - Hello World
 2. Variables
-3. Data types    
-    - text
+3. Data types
+    - str
     - numbers
     - sequences
     - mapping
