@@ -1,5 +1,8 @@
-# Learning Python
-Different Resources for learning language Python
+# Learn Python
+## Python for Beginner
+Learning the weekends.
+
+![Tux, the Linux mascot](10.Libraries_most_used/learningPythonforBeginner.png)
 
 * Autor: [Hadson Paredes Cordova](https://www.linkedin.com/in/hadson-paredes-cordova/ "IT Solutions Architecture | Software Dev | AI, ML, DL | Data Science | Agile | Cloud")
 
@@ -34,6 +37,3 @@ Different Resources for learning language Python
 8. Exception
 9. Classes and objects
 10. Libraries most used
-
-## Learning Python - Tutorials for intermediate
-## Learning Python - Tutorials for advanced
