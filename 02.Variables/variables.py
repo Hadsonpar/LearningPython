@@ -31,7 +31,7 @@ print(type(x), type(y), type(z)) # finally all variables the are string type
 # ---------------------------------------------------------------
 # 2. Assign Multiple Values
 # 2.1. Assign values to multiple variables in one line
-level_benniger, level_intermediate, level_advanced, program_language = "benniger", 'intermediate', "advanced", 'Python 3'
+level_benniger, level_intermediate, level_advanced, program_language = "beginner", 'intermediate', "advanced", 'Python 3'
 print(level_benniger)
 print(level_intermediate)
 print(level_advanced)

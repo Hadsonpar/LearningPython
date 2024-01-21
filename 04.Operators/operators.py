@@ -146,7 +146,7 @@ print ("Floor Division: ", a)
 #   not in	Returns True if a sequence with the specified value is not present in the object
 
 # Example in Python Membership Operators
-x = ["benniger", 'intermediate', "advanced"]
+x = ["beginner", 'intermediate', "advanced"]
 print("intermediate" in x)  # in
 print("expert" not in x)    # not in
 # =====================================================================

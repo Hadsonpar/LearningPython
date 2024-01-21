@@ -14,7 +14,7 @@ for var in iterable:
     statements(var)
 """
 # Example 1 - For loop: access items of a list using for loop
-level = ["benniger", 'intermediate', "advanced"]
+level = ["beginner", 'intermediate', "advanced"]
 for items in level:
     print(items)
 

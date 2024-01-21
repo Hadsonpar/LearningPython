@@ -26,22 +26,22 @@ print(xint, xflo, xcom)
 
 # sequence types    : list, tuple, range
 # ---------------------------------------------------------------
-xlit = ["benniger", 'intermediate', "advanced"]
-xtup = ("benniger", 'intermediate', "advanced")
+xlit = ["beginner", 'intermediate', "advanced"]
+xtup = ("beginner", 'intermediate', "advanced")
 xran = range(3)
 print(xlit, xtup, xran)
 # ---------------------------------------------------------------
 
 # Mapping type      : dict
 # ---------------------------------------------------------------
-xdic = {"level": "benniger", 'cost': 150}
+xdic = {"level": "beginner", 'cost': 150}
 print(xdic)
 # ---------------------------------------------------------------
 
 # set type          : set, frozenset 
 # ---------------------------------------------------------------
-xset = {"benniger", 'intermediate', "advanced"}
-xfro = frozenset({"benniger", 'intermediate', "advanced"})
+xset = {"beginner", 'intermediate', "advanced"}
+xfro = frozenset({"beginner", 'intermediate', "advanced"})
 print(xset, xfro)
 # ---------------------------------------------------------------
 
